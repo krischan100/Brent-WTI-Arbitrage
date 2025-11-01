@@ -6,9 +6,7 @@ In the physical market, oil can be bought in Europe under the **Brent** benchmar
 
 This notebook models that relationship using only the benchmark prices and a **fixed shipping cost**. It calculates monthly profit per barrel as:
 
-\[
-\text{Profit per barrel} = P_\text{WTI} - P_\text{Brent} - \text{Freight cost}
-\]
+**Actual Transaction Price = Benchmark Price + Differential**
 
 I then visualise which months would have presented profitable arbitrage opportunities between 2020 and 2025.
 
