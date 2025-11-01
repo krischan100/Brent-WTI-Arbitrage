@@ -31,7 +31,7 @@ The model identifies profitable months where the WTI price exceeded Brent by mor
 
 In reality, this kind of arbitrage sits within a much larger trading chain:
 
-**Producer (Saudi Aramco, Shell, Exxon) → Trader (Glencore, Vitol, Trafigura) → Refinery (Valero, BP, Reliance)**
+**Producer → Trader  → Refinery **
 
 Oil is not sold directly as “Brent” or “WTI.” These are **benchmarks** — reference prices representing standardised grades at specific delivery locations:
 - **WTI**: Cushing, Oklahoma  
