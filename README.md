@@ -1,7 +1,3 @@
-# Brent-WTI-Arbitrage
-This project analyses potential arbitrage opportunities between Brent (Europe) and WTI (U.S.) crude oil benchmarks using historical market data from Yahoo Finance. It calculates monthly profit per barrel after accounting for a fixed shipping cost to identify periods when transatlantic crude trades would have been profitable.
-# Brent–WTI Crude Oil Arbitrage Analysis
-
 ## Overview
 
 In this project, I analyse potential **transatlantic arbitrage opportunities** between **Brent (Europe)** and **WTI (U.S.)** crude oil benchmarks using historical market data from Yahoo Finance. The idea behind this study is simple but mirrors what happens in real physical oil trading.
