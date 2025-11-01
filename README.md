@@ -37,9 +37,7 @@ Oil is not sold directly as “Brent” or “WTI.” These are **benchmarks** �
 
 Each physical cargo trades as:
 
-\[
-\text{Actual Transaction Price} = \text{Benchmark Price} + \text{Differential}
-\]
+**Actual Transaction Price = Benchmark Price + Differential**
 
 The **differential** reflects real-world adjustments for:
 - Crude quality (sulfur content, API gravity)  
